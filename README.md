@@ -1,6 +1,6 @@
 # 🏠 House Price Forecasting in Connecticut
 
-This project analyzes and forecasts the quarterly House Price Index (HPI) in Connecticut using multiple time series models. It was completed as part of the **SCMA669 – Forecasting Methods** course at VCU.
+This project analyzes and forecasts the quarterly House Price Index (HPI) in Connecticut using multiple time series models. 
 
 ---
 
