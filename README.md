@@ -36,15 +36,6 @@ This project analyzes and forecasts the quarterly House Price Index (HPI) in Con
 
 ## 📈 Key Results
 
-| Model                | MAPE (%) | CRPS   | AIC     |
-|---------------------|----------|--------|---------|
-| TSLM (log-transformed) | **12.0** | **52.7** | -       |
-| ARIMA (2,2,1)       | 14.2     | 60.1   | 953.99  |
-| Auto ARIMA          | 15.3     | 62.3   | 956.55  |
-| ETS (A, Md, N)      | 13.9     | 58.2   | 1410.7  |
-| Ensemble (equal)    | 13.5     | 55.4   | -       |
-| Ensemble (inv var)  | 13.1     | 53.8   | -       |
-
 - **Best Model**: Log-transformed TSLM
 - **Best Hybrid**: Ensemble (inverse variance)
 - **Trend Insight**: Long-term growth with notable dips around the 2008 crisis
